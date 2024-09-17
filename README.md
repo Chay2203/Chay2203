@@ -1,7 +1,5 @@
 ## Naga Chaitanya
 
-**I am a:** Software Developer
-
 **Portfolio:** [Website](https://chay2203.vercel.app/)
 
 **Contact Information:**
