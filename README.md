@@ -6,7 +6,7 @@ I build products to help people.
 
 **Contact Information:**
 - **Email:** vanapalachaitanya@gmail.com
-- **Twitter:** [knowchay](https://x.com/knowchay)
+- **Twitter:** [knowchay](https://x.com/knowchay_)
 
 **Projects:**
 1. **Ziva (email for founders) :** [ziva](https://myziva.vercel.app/)
