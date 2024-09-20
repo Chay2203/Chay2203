@@ -1,6 +1,6 @@
 ## Naga Chaitanya
 
-I build products to help people.
+I build products to help people 💸
 
 **Portfolio:** [Website](https://chay2203.vercel.app/)
 
