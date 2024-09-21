@@ -11,9 +11,9 @@ I build products to help people 💸 <br>
 - **Twitter:** [knowchay](https://x.com/knowchay_)
 
 **Projects:**
-1. **SoCo (Youtube Analytics Extensions for Media Teams):** [Download Now](https://github.com/Chay2203/SoCo)
-2. **SnapDish (AI Feature for Quick-Commerce Apps):** [SnapDish](https://github.com/Chay2203/SnapDish)
-3. **All in-one Creator Platform** - [challengeMOB](www.thechallengemob.tech/)
-3. **SARtoEO Image Convertor:** [Hackathon Project](https://github.com/Chay2203/SARtoEO)
+1. **SoCo (Youtube Analytics Extensions for Media Teams):** [Download Now](https://github.com/Chay2203/SoCo) (used by Scaler Academy)
+2. **SnapDish (AI Feature for Quick-Commerc e Apps):** [SnapDish](https://github.com/Chay2203/SnapDish) ([swiggy](https://drive.google.com/file/d/1EYUoyvA5NtkyezGziKYFTBF03c4uQSgW/view?usp=sharing) loved it and called us ❤️!)
+3. **All in-one Creator Platform** - [challengeMOB](www.thechallengemob.tech/) (collaborated with creators having a total of 300k userbase)
+3. **SARtoEO Image Convertor:** [Hackathon Project](https://github.com/Chay2203/SARtoEO) (hackathon winning project 🏆)
 4. **AI Toolkit for Youtubers:** [Creatowise](https://creatowise.com/) (acquired)
 
