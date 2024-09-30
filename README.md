@@ -1,6 +1,6 @@
 ## Naga Chaitanya
 
-I build products to help people 💸 <br>
+I build products to help people 💝 <br>
 
 🛠️ - making boring emails amazing and fast ~ [ziva](https://myziva.vercel.app/) (join the waitlist for superpowers)
 
