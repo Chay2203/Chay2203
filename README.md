@@ -1,4 +1,4 @@
-## Naga Chaitanya
+## Naga Chaitanya Varma
 
 I build products to help people 💝 <br>
 
