@@ -5,10 +5,11 @@ I build products to help people 💝 <br>
 🛠️ - making boring emails amazing and fast ~ [ziva](https://myziva.vercel.app/) (join the waitlist for superpowers)
 
 **Portfolio:** [Website](https://chay2203.vercel.app/)
+**Chmall Youthoober:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
 
 **Contact Information:**
 - **Email:** vanapalachaitanya@gmail.com
-- **Twitter:** [knowchay](https://x.com/knowchay_)
+- **Twitter:** [knowchay](https://x.com/knowchay)
 
 **Projects:**
 1. **SoCo (Youtube Analytics Extensions for Media Teams):** [Download Now](https://github.com/Chay2203/SoCo) (used by [Scaler Academy](https://www.scaler.com/))
