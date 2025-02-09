@@ -9,7 +9,7 @@ I build products to help people 💝 <br>
 
 **Contact Information:**
 - **Email:** vanapalachaitanya@gmail.com
-- **Twitter:** [knowchay](https://x.com/knowchay)
+- **Twitter:** [knowchay](https://x.com/knowchay_)
 
 **Projects:**
 1. **ziva (making boring emails amazing and fast)** ~ [Join the Waitlist for Superpowers](https://myziva.vercel.app/)
