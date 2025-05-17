@@ -13,7 +13,7 @@ I build products to help people 💝 <br>
 
 **Products/Projects:**
 1. **swifey (ALL14 - funded by [AllianceDAO](https://alliance.xyz/)) (a dating app to find love, liquidity or both)** - [iOS](https://apps.apple.com/us/app/swifey-ai/id6737560814) / [Android](https://play.google.com/store/apps/details?id=com.flutter.r42.swifey)
-2. **[cape.fun]([https://capefun.vercel.app/)](https://www.cape.fun/) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification.
+2. **[cape.fun](https://capefun.vercel.app/) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification.
 3. **sugar-daddy (on-chain)** - [(Wanna be?)](https://sugardaddyme.vercel.app/) ~ A decentralized web app where women can make requests, and on-chain sugar daddies on solana can send money to full-fill them.
 4. **epicure robotics (e2e management platform for kisoks)** - [Dashboard](https://kioskdev.vercel.app/)
 5. **ziva (making boring emails amazing and fast)** - [Join the Waitlist for Superpowers](https://myziva.vercel.app/)
