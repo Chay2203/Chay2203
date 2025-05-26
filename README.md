@@ -2,8 +2,6 @@
 👨‍💻 - engineering at [swifey](https://x.com/swifeyai) <br><br>
 I build products to help people 💝 <br>
 
-🛠️ - [hive](https://github.com/Chay2203/hive) ~ connecting classrooms and parents with memories.
-
 **Portfolio:** [Website](https://chay2203.vercel.app/) <br>
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
 
