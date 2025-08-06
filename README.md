@@ -13,7 +13,7 @@ I build products to help people 💝 <br>
 1. **swifey (ALL14 - funded by [AllianceDAO](https://alliance.xyz/)) (a dating app to find love, liquidity or both)** - [iOS](https://apps.apple.com/us/app/swifey-ai/id6737560814) / [Android](https://play.google.com/store/apps/details?id=com.flutter.r42.swifey) ([Twitter](https://x.com/swifeyai))
 2. **[cape.fun](https://cape.fun) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification. ([Twitter](https://x.com/capedotfun))
 3. **[couplecoin](https://couplecoin.fun)** - tag a couple and mint their love as a tradable token ([Twitter](https://x.com/CoupleCoin_)) ([Token](https://believe.app/coin/DPZNiAdh2ZkfeMYvzka9AkfZeYSG4JTvEkhAJEQHHNFy))
-4. **[smush.fun](https://www.smush.fun/)** - find your perfect dream partner.
+4. **[smush.fun](https://www.smush.fun/)** - find your perfect dream partner ([iOS](https://apps.apple.com/bn/app/smush-dream-soulmate/id6748267998)).
 5. **sugar-daddy (on-chain)** - [(Wanna be?)](https://sugardaddyme.vercel.app/) ~ A decentralized web app where women can make requests, and on-chain sugar daddies on solana can send money to full-fill them.
 6. **epicure robotics (e2e management platform for kisoks)** - [Dashboard](https://kioskdev.vercel.app/)
 7. **ziva (making boring emails amazing and fast)** - [Join the Waitlist for Superpowers](https://myziva.vercel.app/)
