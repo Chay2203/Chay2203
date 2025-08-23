@@ -2,7 +2,6 @@
 👨‍💻 - engineering at [swifey](https://x.com/swifeyai) <br><br>
 I build products to help people 💝 <br>
 
-**Portfolio:** [Website](https://chay2203.vercel.app/) (have to redo this ;-;) <br>
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
 
 **Contact Information:**
