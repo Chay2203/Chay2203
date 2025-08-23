@@ -1,5 +1,5 @@
 ## Naga Chaitanya Varma
-👨‍💻 - engineering at [swifey](https://x.com/swifeyai) <br><br>
+👨‍💻 - engineering at [Pocket AI](https://heypocket.com/) <br><br>
 I build products to help people 💝 <br>
 
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
@@ -15,7 +15,7 @@ I build products to help people 💝 <br>
 4. **[couplecoin](https://couplecoin.fun)** - tag a couple and mint their love as a tradable token ([Twitter](https://x.com/CoupleCoin_)) ([Token](https://believe.app/coin/DPZNiAdh2ZkfeMYvzka9AkfZeYSG4JTvEkhAJEQHHNFy))
 5. **[smush.fun](https://www.smush.fun/)** - find your perfect dream partner ([iOS](https://apps.apple.com/bn/app/smush-dream-soulmate/id6748267998)).
 6. **sugar-daddy (on-chain)** - [(Wanna be?)](https://sugardaddyme.vercel.app/) ~ A decentralized web app where women can make requests, and on-chain sugar daddies on solana can send money to full-fill them.
-7. **epicure robotics (e2e management platform for kisoks)** - [Dashboard](https://kioskdev.vercel.app/)
+7. **epicure robotics (e2e management platform for kisoks)** - [Website](https://epicurerobotics.com/)
 8. **ziva (making boring emails amazing and fast)** - [Join the Waitlist for Superpowers](https://myziva.vercel.app/)
 9. **SoCo (Youtube Analytics Extensions for Media Teams)** - [Download Now](https://github.com/Chay2203/SoCo) (used by [Scaler Academy](https://www.scaler.com/))
 10. **SnapDish (AI Feature for Quick-Commerce Apps)** - [SnapDish](https://github.com/Chay2203/SnapDish) ([swiggy](https://drive.google.com/file/d/1EYUoyvA5NtkyezGziKYFTBF03c4uQSgW/view?usp=sharing) loved it and called us ❤️!)
