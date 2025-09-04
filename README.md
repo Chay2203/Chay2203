@@ -6,7 +6,7 @@ I build products to help people 💝 <br>
 
 **Contact Information:**
 - **Email:** vanapalachaitanya@gmail.com
-- **Twitter:** [knowchay](https://x.com/knowchay_)
+- **Twitter:** [chayyaps](https://x.com/chayyaps)
 
 **Products/Projects:**
 1. **Pocket AI - AI thought companion** - [X](https://x.com/heypocketai) / [Website](https://heypocket.com/)
