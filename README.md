@@ -9,7 +9,7 @@ I build products to help people 💝 <br>
 - **Twitter:** [chayyaps](https://x.com/chayyaps)
 
 **Products/Projects:**
-1. **Pocket AI - AI thought companion** - [X](https://x.com/heypocketai) / [Website](https://heypocket.com/)
+1. **Pocket - AI thought companion** - [X](https://x.com/heypocketai) / [Website](https://heypocket.com/)
 2. **Swifey (ALL14 - funded by [AllianceDAO](https://alliance.xyz/)) (a dating app to find love, liquidity or both)** - [iOS](https://apps.apple.com/us/app/swifey-ai/id6737560814) / [Android](https://play.google.com/store/apps/details?id=com.flutter.r42.swifey) ([Twitter](https://x.com/swifeyai))
 3. **[cape.fun](https://cape.fun) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification. ([Twitter](https://x.com/capedotfun))
 4. **[couplecoin](https://couplecoin.fun)** - tag a couple and mint their love as a tradable token ([Twitter](https://x.com/CoupleCoin_)) ([Token](https://believe.app/coin/DPZNiAdh2ZkfeMYvzka9AkfZeYSG4JTvEkhAJEQHHNFy))
