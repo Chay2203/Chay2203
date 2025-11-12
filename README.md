@@ -1,5 +1,4 @@
 ## Naga Chaitanya Varma
-👨‍💻 - engineering at [Pocket AI](https://heypocket.com/) <br><br>
 I build products to help people 💝 <br>
 
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
