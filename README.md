@@ -10,8 +10,8 @@ I build products to help people 💝 <br>
 **Products/Projects:**
 1. **Pocket - AI thought companion [(Y Combinator - W26)](https://www.ycombinator.com/companies/pocket)** - [X](https://x.com/heypocketai) / [Website](https://heypocket.com/) | [Android](https://play.google.com/store/apps/details?id=com.heypocket.app&hl=en_IN) / [iOS](https://apps.apple.com/in/app/pocket-ai-thought-companion/id6746845735)
 2. **Swifey (ALL14 - funded by [AllianceDAO](https://alliance.xyz/)) (a dating app to find love, liquidity or both)** - [iOS](https://apps.apple.com/us/app/swifey-ai/id6737560814) / [Android](https://play.google.com/store/apps/details?id=com.flutter.r42.swifey) ([Twitter](https://x.com/swifeyai))
-3. **[Lavendar: WLW Dating App](https://play.google.com/store/apps/details?id=com.r42.lavendar)** - Lavender is a thoughtfully designed space for Bi, Lesbian, Queer, Pan & Fluid women to meet, connect, and express themselves comfortably - [(Android)](https://play.google.com/store/apps/details?id=com.r42.lavendar)
-4. **[tryocula.com](https://www.tryocula.com/) - AI Code Review agent for On-Chain Apps.**
+3. **[tryocula.com](https://www.tryocula.com/) - AI Code Review agent for On-Chain Apps.**
+4. **[Lavendar: WLW Dating App](https://play.google.com/store/apps/details?id=com.r42.lavendar)** - Lavender is a thoughtfully designed space for Bi, Lesbian, Queer, Pan & Fluid women to meet, connect, and express themselves comfortably - [(Android)](https://play.google.com/store/apps/details?id=com.r42.lavendar)
 5. **[cartooncoin.fun](https://cartooncoin.fun/) - Create Unique Characters and turn them into Viral Content**
 6. **VibeClock - Meet New Friends based on Vibes (powered by Reclaim)** - [Android](https://play.google.com/store/apps/details?id=com.r42.vibe&hl=en_IN)
 7. **[cape.fun](https://cape.fun) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification. ([Twitter](https://x.com/capedotfun))
