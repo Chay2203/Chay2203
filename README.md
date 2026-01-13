@@ -13,7 +13,7 @@ I build products to help people 💝 <br>
 3. **Rizzly (Train your Social Dynamics)** - [(iOS)](https://apps.apple.com/us/app/rizzly-dating-coach/id6757318804)
 4. **[tryocula.com](https://www.tryocula.com/) - AI Code Review agent for On-Chain Apps.**
 5. **[Lavendar: WLW Dating App](https://play.google.com/store/apps/details?id=com.r42.lavendar)** - Lavender is a thoughtfully designed space for Bi, Lesbian, Queer, Pan & Fluid women to meet, connect, and express themselves comfortably
-6. **[cartooncoin.fun](https://cartooncoin.fun/) - Create Unique Characters and turn them into Viral Content**
+6. **[cartooncoin.fun](https://cartooncoin.fun/) - create unique characters and turn them into viral content**
 7. **[VibeClock](https://play.google.com/store/apps/details?id=com.r42.vibe&hl=en_IN) - meet new friends based on vibes (powered by Reclaim)**
 8. **[cape.fun](https://cape.fun) (turn credentials into cash-flow)** - A solana-based dApp that lets users monetize verified credentials using zkTLS for secure, privacy-preserving verification. ([Twitter](https://x.com/capedotfun))
 9. **[couplecoin](https://couplecoin.fun)** - tag a couple and mint their love as a tradable token ([Twitter](https://x.com/CoupleCoin_)) ([Token](https://believe.app/coin/DPZNiAdh2ZkfeMYvzka9AkfZeYSG4JTvEkhAJEQHHNFy))
