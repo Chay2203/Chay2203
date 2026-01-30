@@ -1,5 +1,5 @@
 ## Naga Chaitanya Varma
-I build products. :)<br>
+I build consumer products.<br>
 
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
 
