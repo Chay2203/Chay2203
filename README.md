@@ -1,5 +1,5 @@
 ## Naga Chaitanya Varma
-I build products to help people 💝 <br>
+I build products. :)<br>
 
 **YouTube:** [@thepapusgang](https://www.youtube.com/@thepapusgang) 
 
