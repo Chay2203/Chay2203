@@ -1,7 +1,7 @@
 ## Naga Chaitanya Varma
-I build consumer products.<br>
+I build things people use obsessively and overthink physics for fun.<br>
 
-- **Email:** vanapalachaitanya@gmail.com
+**Email:** vanapalachaitanya@gmail.com
 
 **Products:**
 
