@@ -3,6 +3,8 @@ I build things people use obsessively and overthink physics for fun.<br>
 
 **Email:** vanapalachaitanya@gmail.com
 
+[ecstatia.com](https://ecstatia.com)
+
 **Products:**
 
 1. **Pocket - Personal AI Assistant [(Y Combinator - W26)](https://www.ycombinator.com/companies/pocket)** - [X](https://x.com/heypocketai) / [Website](https://heypocket.com/) | [Android](https://play.google.com/store/apps/details?id=com.heypocket.app&hl=en_IN) / [iOS](https://apps.apple.com/in/app/pocket-ai-thought-companion/id6746845735)
