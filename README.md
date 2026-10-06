@@ -3,7 +3,7 @@ I build things people use obsessively and overthink physics for fun.<br>
 
 **Email:** vanapalachaitanya@gmail.com
 
-[ecstatia.com](https://ecstatia.com)
+[Torque AI](https://ecstatia.com/torque)
 
 **Products:**
 
